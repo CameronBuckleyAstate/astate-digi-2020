@@ -38,7 +38,7 @@ http://github.com - automatic!
 
 
 image here
-![GitHub Logo](../assets/img/grow.jpg)
+![GitHub Logo](../assets/img/grow.jpg | width=100%)
 
 
 
