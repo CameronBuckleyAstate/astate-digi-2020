@@ -1,23 +1,23 @@
-logo: tds # add logo name
-title: The Delta School Symposium
+logo: DIGI # add logo name
+title: A-State Digital Design Showcase
 description: > # this means to ignore newlines until "baseurl:"
-  Make. Discover. Grow.
+  Digital exhibition of A-State projects
 permalink: ':title/'
-baseurl: "/tds-symposium" # the subpath of your site, e.g. /blog
+baseurl: "/astate-digi-2020" # the subpath of your site, e.g. /blog
 url: "https://cameronbuckleyastate.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: HomePage.mp4 # add banner video. Add your video file to the folder video
-banner-title: The Delta School # add banner title
-banner-desc: 2020 High School Symposium # add banner description
+banner-title: A-State Digital Design # add banner title
+banner-desc: 2020 Showcase # add banner description
 
 # Author settings
 author-pic:  # your photo
 author-name: # your name
 about-author: # about author
-email: cameron.buckley@thedelatschool.org # your email
+email: cbuckley@astate.edu # your email
 phone:  # your pnone number
-website: https://www.thedeltaschool.org # you website
+website: https://www.joeford.me # you website
 
 # Social link
 google_url:    # add url link
